@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Переменные окружения
 Копируйте файл `.env.sample` с именем копии `.env`:
 ```shell
-cp .env/sample .env
+cp .env.sample .env
 ```
 
 В фале `.env` замините значения переменных окружения на требуемые.
